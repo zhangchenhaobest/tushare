@@ -1,3 +1,29 @@
+# tushare
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+TuShare is a utility for crawling historical data of China stocks
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+抓取中国股票历史数据的工具 TuShare。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 TuShare
 
 
